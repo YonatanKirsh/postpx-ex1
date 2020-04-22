@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">postpc-ex1</string>
+    <string name="button_text">Create</string>
+    <string name="welcome_message">Hey! Enter any message and press the button to make it appear!</string>
 </resources>
